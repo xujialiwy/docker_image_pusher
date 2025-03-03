@@ -3,4 +3,5 @@
 #mysql:8.0
 #centos:centos7.9.2009
 #xhofe/alist:v3.41.0
-openjdk:11
+#openjdk:11
+#bitnami/git:2.48.1
