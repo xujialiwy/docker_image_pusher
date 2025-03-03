@@ -1,3 +1,4 @@
 mysql:8.0
 centos:centos7.9.2009
 xhofe/alist:v3.41.0
+maven:3.8.6-openjdk-8
