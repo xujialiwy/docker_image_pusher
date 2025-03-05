@@ -5,4 +5,5 @@
 #xhofe/alist:v3.41.0
 #openjdk:11
 #bitnami/git:2.48.1
-openjdk:8
+#openjdk:8
+linuxserver/code-server:4.97.2
