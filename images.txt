@@ -7,4 +7,5 @@
 #bitnami/git:2.48.1
 #openjdk:8
 #linuxserver/code-server:4.97.2
-hwdsl2/ipsec-vpn-server
+#hwdsl2/ipsec-vpn-server
+fastsend
