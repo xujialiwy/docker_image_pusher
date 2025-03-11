@@ -8,4 +8,5 @@
 #openjdk:8
 #linuxserver/code-server:4.97.2
 #hwdsl2/ipsec-vpn-server
-fastsend
+#fastsend
+gdy666/lucky
