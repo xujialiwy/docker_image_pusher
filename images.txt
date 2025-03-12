@@ -11,4 +11,5 @@
 #hwdsl2/ipsec-vpn-server
 #fastsend
 #gdy666/lucky
-dorowu/ubuntu-desktop-lxde-vnc
+#dorowu/ubuntu-desktop-lxde-vnc
+centos:7.9.2009
