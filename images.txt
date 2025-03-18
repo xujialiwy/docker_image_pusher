@@ -12,4 +12,5 @@
 #fastsend
 #gdy666/lucky
 #dorowu/ubuntu-desktop-lxde-vnc
-centos:7.9.2009
+#centos:7.9.2009
+kasmweb/centos-7-desktop:1.14.0
