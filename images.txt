@@ -13,4 +13,5 @@
 #gdy666/lucky
 #dorowu/ubuntu-desktop-lxde-vnc
 #centos:7.9.2009
-kasmweb/centos-7-desktop:1.14.0
+#kasmweb/centos-7-desktop:1.14.0
+ollama/ollama:0.13.4-rc0
