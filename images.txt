@@ -1,4 +1,5 @@
 #  registry.cn-hangzhou.aliyuncs.com/xjl-public
+# docker pull crpi-nsju2rfsplp237vf.cn-hangzhou.personal.cr.aliyuncs.com/xjl_private/
 #maven:3.8.6-openjdk-8
 #alpine/git:v2.47.2
 #mysql:8.0
