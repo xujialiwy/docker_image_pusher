@@ -18,27 +18,6 @@
 #ollama/ollama:0.30.10
 #wyx176/jrebel:latest
 
-localstack/localstack:4.12.0                     
-ghcr.io/posthog/posthog/capture:master           
-temporalio/auto-setup:1.26.2                     
-zookeeper:3.7.0                                  
-postgres:15.12-alpine                            
-clickhouse/clickhouse-server:26.6.2.158          
-maildev/maildev:2.0.5                            
-valkey/valkey:8.1-alpine                         
-chrislusf/seaweedfs:4.29                         
-elasticsearch:7.17.28                            
-ghcr.io/posthog/posthog/hypercache-server:master 
-docker.io/redpandadata/redpanda:v25.1.9          
-ghcr.io/posthog/posthog/cyclotron-janitor:master 
-ghcr.io/posthog/posthog/property-defs-rs:master  
-temporalio/ui:2.47.2                             
-tarampampam/webhook-tester:2.2.6                 
-caddy                                            
-temporalio/admin-tools:1.26.2                    
-jaegertracing/all-in-one:1.76.0                  
-otel/opentelemetry-collector-contrib:0.142.0     
-ghcr.io/posthog/posthog/feature-flags:master     
-redis:7.2-alpine     
+weishaw/sub2api:latest
 
 
