@@ -18,6 +18,6 @@
 #ollama/ollama:0.30.10
 #wyx176/jrebel:latest
 
-weishaw/sub2api:latest
-
+#weishaw/sub2api:latest
+bellsoft/liberica-openjdk-rocky:21.0.8-cds
 
