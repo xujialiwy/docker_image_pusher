@@ -20,4 +20,4 @@
 
 #weishaw/sub2api:latest
 bellsoft/liberica-openjdk-rocky:21.0.8-cds
-
+nginx:alpine
